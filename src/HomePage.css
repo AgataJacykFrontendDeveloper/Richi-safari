@@ -1,0 +1,36 @@
+#Hero {
+  margin-top: -50px;
+  background-image: linear-gradient(#17023f00 75%, #000),
+    url("./assets/main-pageHero.png");
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-size: cover;
+  height: 110vh;
+}
+#Hero h1 {
+  color: #d2d2d2;
+  margin: -15px auto;
+}
+.shorthand {
+  flex-direction: row;
+}
+.welcome {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-left: 35px;
+  width: fit-content;
+  height: 100%;
+}
+
+img {
+  margin-top: 20px;
+  width: calc(180px + (350 - 180) * ((100vw - 300px) / (1728 - 300)));
+  height: auto;
+}
+span {
+  display: inline;
+  margin-left: 15px;
+  color: #d2d2d2;
+}

@@ -2,40 +2,84 @@ import "./Footer.css";
 const Footer = () => {
   return (
     <>
-      <footer>
+<footer
+        className="text-center text-lg-start"
+        // style="background-color: #1c2331"
+      >
         <img
           className="footer-banner"
           src={require("../assets/footer-top.webp")}
         />
-
         <div className="outside">
-          <div className="footer-box">
-            <div className="div1">
-              <img src={require("../assets/logo-hero.png")} />
-            </div>
-            <div className="div2">
-              <ul>
-                <li>O mnie</li>
-                <li>O Safari</li>
-                <li>O Kenii</li>
-              </ul>
-            </div>
-            <div className="div3">
-              <ul>
-                <li>Kontakt</li>
-                <li>Informacje przed wyjazdem</li>
-                <li>Poradnik zdrowia</li>
-              </ul>
-            </div>
-            <div className="div4">
-              <ul>
-                <li>Regulamin</li>
-                <li>Polityka Prywatności</li>
-                <li>FAQs</li>
-              </ul>
+        <section className="main-footer-box ">
+          <div className="container text-center text-md-start mt-5">
+            <div className="row mt-3 ">
+              <div className="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
+                <img className="footer-logo" src={require("../assets/logo-hero.png")} />
+              </div>
+
+              <div className="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
+                 <p>
+                  <a href="#!" className="text-white">
+                  O mnie
+                  </a>
+                </p>
+                <p>
+                  <a href="#!" className="text-white">
+                  O Safari
+                  </a>
+                </p>
+                <p>
+                  <a href="#!" className="text-white">
+                  O Kenii
+                  </a>
+                </p>
+               
+              </div>
+
+              <div className="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
+              <p>
+                  <a href="#!" className="text-white">
+                  Kontakt
+                  </a>
+                </p>
+                <p>
+                  <a href="#!" className="text-white">
+                  Informacje przed wyjazdem
+                  </a>
+                </p>
+                <p>
+                  <a href="#!" className="text-white">
+                  Poradnik zdrowia
+                  </a>
+                </p>
+              </div>
+
+              <div className="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
+              <p>
+                  <a href="#!" className="text-white">
+                  Regulamin
+                  </a>
+                </p>
+                <p>
+                  <a href="#!" className="text-white">
+                   Polityka Prywatności
+                  </a>
+                </p>
+                <p>
+                  <a href="#!" className="text-white">
+                   FAQs
+                  </a>
+                </p>
+              </div>
             </div>
           </div>
-          <span>&copy; Copyrights RichiSafari</span>
+        </section>
+
+        <div className="text-left p-3 copyright text-white">
+          © 2024 Copyright RichiSafari
+          made by <a href="https://agata-jacyk.netlify.app/" className="text-white">♡</a>
+        </div>
         </div>
       </footer>
     </>

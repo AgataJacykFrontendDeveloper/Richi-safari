@@ -1,0 +1,14 @@
+.review-box {
+align-items: center;
+}
+.review-box .row { 
+    justify-content: flex-start;
+    margin: auto;
+}
+.carousel-inner {
+margin: 10% 20%;
+padding-bottom: 100px;
+}
+.carousel-item {
+margin-left: auto;
+}

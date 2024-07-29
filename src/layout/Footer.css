@@ -12,7 +12,6 @@ span {
   margin-top: 30px;
   padding-bottom: 5px;
   text-align: center;
-  width: 100%;
 }
 .footer-banner {
   width: 100%;
@@ -31,8 +30,8 @@ span {
 .div1 {
   grid-area: 1 / 1 / 2 / 2;
 }
-.div1 img {
-  width: 60%;
+.footer-logo {
+  width: 90%;
   height: auto;
   margin-top: -20px;
 }
@@ -47,8 +46,8 @@ span {
 }
 .outside {
   background: url("../assets/footer-grass.webp"), #64462c;
-  background-size: cover;
+  background-size: contain;
   background-repeat: no-repeat;
   background-position: bottom;
-  padding-bottom: 20px;
+  padding: 20px 0px;
 }

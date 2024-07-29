@@ -1,0 +1,56 @@
+.about-kenia { 
+    padding: 100px 0;
+}
+.about-kenia .row {
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+  }
+
+.kenia-map {
+    width: 550px;
+}
+.zebra-fact { 
+    height: 600px;
+    background: url("./assets/zebra.png"), #8C613B;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.zebra-fact div { 
+width: 40%;
+padding-top: 20vh;
+margin-left: 10%;
+}
+
+@media (max-width: 930px) {
+    .review-box, .row { 
+        width: 90%;
+        margin-left: 0;
+    }
+    .row {
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      justify-items: center;
+    }
+    .avatar,.kenia-map {
+        width: 90%;
+        margin: 10% auto;
+    }
+    #carouselExampleDark {
+        width: 90vw;
+    }
+    .carousel {
+        width: 100%;
+    }
+    .carousel-inner {
+        width: 90%;
+        margin: 0 5%;
+    }
+    .col-3, .col-5 {
+        width: 100%;
+    }
+.col-3 .giraffe {
+    padding-left: 0;
+}
+  }

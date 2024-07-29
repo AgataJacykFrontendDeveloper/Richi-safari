@@ -1,5 +1,7 @@
 import "./HomePage.css";
 import AboutMe from "./AboutMe.js";
+import AboutKenia from "./AboutKenia.js";
+import Review from "./Review.js";
 import Header from "./layout/Header";
 const HomePage = () => {
   return (
@@ -20,6 +22,8 @@ const HomePage = () => {
         </div>
       </section>
       <AboutMe />
+      <AboutKenia />
+      <Review />
     </>
   );
 };

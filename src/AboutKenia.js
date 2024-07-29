@@ -25,7 +25,7 @@ const AboutKenia = () => {
     <p className="text-white">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
 </p>
 <a href="/buttons/42" class="btn41-43 btn-42 btn-sun">
-              dowiedz się więcej
+              jak się przygotować
             </a></div>
     </div></section>
   );

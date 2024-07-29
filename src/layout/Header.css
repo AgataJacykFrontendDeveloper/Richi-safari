@@ -66,7 +66,7 @@ a button {
   }
   .nav > .nav-btn > label {
     display: inline-block;
-    width: 50px;
+    width: 70px;
     height: 50px;
     padding: 13px;
   }
@@ -86,7 +86,7 @@ a button {
     align-items: center;
     justify-content: center;
     width: 100%;
-    background-color: #2e1c50;
+    background-color: #64462C;
     height: 0px;
     transition: all 0.3s ease-in;
     overflow-y: hidden;

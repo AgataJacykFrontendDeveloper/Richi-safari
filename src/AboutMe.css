@@ -23,3 +23,35 @@
 h2 {
   margin-top: 0px;
 }
+@media (max-width: 930px) {
+  .review-box, .row { 
+      width: 90%;
+      margin-left: 0;
+  }
+  .row {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+  }
+  .avatar,.kenia-map {
+      width: 90%;
+      margin: 10% auto;
+  }
+  #carouselExampleDark {
+      width: 90vw;
+  }
+  .carousel {
+      width: 100%;
+  }
+  .carousel-inner {
+      width: 90%;
+      margin: 10% 5%;
+  }
+  .col-3, .col-5 {
+      width: 100%;
+  }
+.col-3 .giraffe {
+  padding-left: 0;
+}
+}

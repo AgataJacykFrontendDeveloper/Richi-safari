@@ -17,7 +17,6 @@ button:focus {
   display: inline-block;
   font-size: 22px;
   color: #fff;
-  padding: 10px 10px 10px 10px;
 }
 
 .nav > .nav-btn {
@@ -61,7 +60,7 @@ a button {
   .nav > .nav-btn {
     display: inline-block;
     position: absolute;
-    right: 0px;
+    right: 20px;
     top: 0px;
     z-index: 6;
   }

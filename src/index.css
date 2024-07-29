@@ -23,7 +23,7 @@ h6 {
   font-weight: 300;
 }
 h1 {
-  font-size: calc(48px + (120 - 48) * ((100vw - 300px) / (1728 - 300)));
+  font-size: calc(48px + (200 - 48) * ((100vw - 300px) / (1728 - 300)));
 }
 
 .btn41-43 {

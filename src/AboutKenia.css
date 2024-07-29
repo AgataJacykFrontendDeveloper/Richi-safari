@@ -8,7 +8,7 @@
   }
 
 .kenia-map {
-    width: 550px;
+    width: calc(200px + (550 - 200) * ((100vw - 300px) / (1728 - 300)));
 }
 .zebra-fact { 
     height: 600px;

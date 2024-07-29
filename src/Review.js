@@ -3,7 +3,7 @@ const Review = () => {
     return (
            <div className="review-box row">
        <div className="col-3 "><img className="giraffe" src={require("./assets/giraffe.png")}/></div> 
-        <div className="col-5 ">
+        <div className="col">
         <h2>Opinie</h2>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
 </p>

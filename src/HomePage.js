@@ -15,7 +15,7 @@ const HomePage = () => {
             <a href="/buttons/42" class="btn41-43 btn-42">
               O safari
             </a>
-            <span>
+            <span id="aboutMe-btn">
               <a>O mnie</a>
             </span>
           </div>

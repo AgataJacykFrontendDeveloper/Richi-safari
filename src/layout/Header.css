@@ -1,110 +1,20 @@
-button:hover,
-button:focus {
-  color: #faecff;
-}
-
-.nav {
-  height: 40px;
-  width: 100%;
-  position: relative;
-}
-
-.nav > .nav-header {
-  display: inline;
-}
-
-.nav > .nav-header > .nav-title {
-  display: inline-block;
-  font-size: 22px;
-  color: #fff;
-}
-
-.nav > .nav-btn {
-  display: none;
-}
-
-.nav > .nav-links {
-  width: 100%;
-  display: flex;
-  flex-direction: row;
+.navbar-expand-lg .navbar-collapse {
   justify-content: flex-end;
-  align-items: center;
-  font-size: 16px;
-  letter-spacing: 2px;
 }
-
-.nav > .nav-links > a {
-  display: inline-block;
-  font-weight: 500;
-  padding: 13px 15px 13px 15px;
-  text-decoration: none;
-  color: #efefef;
-  margin: 0;
+.navbar-toggler-icon {
+  width: 3em !important;
+  height: 3em !important;
 }
-
-.nav > .nav-links > a:hover {
-  background-image: -webkit-linear-gradient(90deg, #75ebb9 0%, #faecff 100%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: #faecff;
-  -webkit-animation: hue 60s infinite linear;
+.lg-nav {
+  justify-content: flex-end !important;
 }
-
-.nav > #nav-check {
-  display: none;
+@media (min-width: 1230px) {
+  .sm-nav {
+    display: none !important;
+  }
 }
-
-a button {
-  margin-bottom: 0%;
-}
-@media (max-width: 1071px) {
-  .nav > .nav-btn {
-    display: inline-block;
-    position: absolute;
-    right: 20px;
-    top: 0px;
-    z-index: 6;
-  }
-  .nav > .nav-btn > label {
-    display: inline-block;
-    width: 70px;
-    height: 50px;
-    padding: 13px;
-  }
-  .nav > .nav-btn > label:hover,
-  .nav #nav-check:checked ~ .nav-btn > label {
-    background-color: rgba(0, 0, 0, 0.3);
-  }
-  .nav > .nav-btn > label > span {
-    display: block;
-    width: 25px;
-    margin-top: 3px;
-    border-top: 2px solid #eee;
-  }
-  .nav > .nav-links {
-    flex-direction: column;
-    flex-wrap: wrap;
-    align-items: center;
-    justify-content: center;
-    width: 100%;
-    background-color: #64462C;
-    height: 0px;
-    transition: all 0.3s ease-in;
-    overflow-y: hidden;
-    top: 50px;
-    left: 0px;
-    margin: 0;
-    z-index: 5;
-  }
-
-  .nav > .nav-links > a {
-    margin-bottom: 10px;
-  }
-
-  .nav > #nav-check:not(:checked) ~ .nav-links {
-    height: 0px;
-  }
-  .nav > #nav-check:checked ~ .nav-links {
-    height: 100vh;
-    overflow-y: auto;
+@media (max-width: 1230px) {
+  .lg-nav {
+    display: none !important;
   }
 }

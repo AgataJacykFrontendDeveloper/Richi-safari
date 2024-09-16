@@ -1,0 +1,9 @@
+.header-logo {
+    height: 4rem;
+    width: auto;
+}
+
+.offcanvas {
+    background:  url("https://www.transparenttextures.com/patterns/asfalt-dark.png"),
+    #D6C9B2 !important;
+}

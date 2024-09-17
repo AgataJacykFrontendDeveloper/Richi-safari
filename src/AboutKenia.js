@@ -33,7 +33,7 @@ Wariantów wycieczki jest wiele, może to być wyjazd jednodniowy, dwudniowy, tr
 
 Wszystko zależy od tego jakim budżetem Państwo dysponują i co chcecie zobaczyć. Każdy plan przygotowywany jest indywidualnie, tak aby pokazać Wam to co w Afryce jest najpiękniejsze.  
 </p>
-<a href="/buttons/42" class="btn41-43 btn-42 btn-sun">
+<a href="https://richi-safari.vercel.app/przed-wyjazdem" class="btn41-43 btn-42 btn-sun">
               jak się przygotować
             </a></div>
     </div></section>

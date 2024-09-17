@@ -5,6 +5,8 @@ const Header = () => {
     <>
 <nav class="navbar navbar-expand-lg lg-nav" data-bs-theme="dark">
   <div class="container-fluid lg-nav">
+  <Link className="nav-link active" to="/"> <img className="header-logo" src={require("../assets/darkLogo.png")}
+        /></Link>
       <div class="d-flex">
       <ul class="navbar-nav ">
           <li class="nav-item">

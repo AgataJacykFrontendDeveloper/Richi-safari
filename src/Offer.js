@@ -136,19 +136,20 @@ Butelkowana woda w jeepie<br/>
             <div class="overlay">
             </div>
             <div class="circle centered">
-                <h2 class="price-text">2 dni</h2>
+                <h2 class="price-text">3 dni</h2>
             </div>
 <div class="benefits">
-            <p>wariant 2:</p>
-            <p>2-dniowe safari w cudownych Domkach na Palach Taita - Tsavo East</p>
-            <p> To prywatny park z dużą ilością zwierząt (wielkie stada) i z noclegiem w luksusowym, klimatycznym hotelu w Domkach na Palach Sarova Salt Lick Game Lodge Specjalnie dla turystów korzystających z oferty odwiedziny lokalnej społeczności Masajów, bez dodatkowych kosztów.</p>
+            <p>wariant 1:</p>
+            <p>3 dniowe safari w cudownych Domkach na Palach + amboseli </p>
+            <p> prywatny park z dużą ilością zwierząt ( wielkie stada) i z noclegiem w luksusowym, klimatycznym hotelu w Domkach na Palach Sarova Salt Lick Game Lodge
+            Specjalnie dla turystów korzystających z oferty odwiedzimy lokalną społeczność Masajów, bez dodatkowych kosztów.</p>
             <b>1 dzień</b>
             <ul>
                 <li>5:00 - wyjazd z hotelu </li>
-                <li>9:00  Tsavo East-safari </li>
-                <li>14:00 zameldowanie się w Taita Hills Safari po wjeździe do parku – safari game drive </li>
-                <li>14:30– lunch </li>
-                <li>16:00- wyjazd na wieczorne safari game drive </li>
+                <li>11:00 - zameldowanie się w Taita Hills<br/>Safari po wjeździe do parku – safari game drive</li>
+                <li>13:00 - lunch</li>
+                <li>14:00 - zameldowanie w domkach na palach i odpoczynek</li>
+                <li>16:00 - wyjazd na wieczorne safari game drive </li>
                 <li>18:30 – powrot na miejsce noclegu </li>
                 <li>19:00 – kolacja, relaks </li>
             </ul>
@@ -157,9 +158,17 @@ Butelkowana woda w jeepie<br/>
                 <li>6:00 – kawa </li>
                 <li>6:30 – wyjazd z hotelu na poranne safari game drive</li>
                 <li>8:30 – śniadanie</li>
-                <li>10:00 – wyjazd z hotelu </li>
-                <li>10:30 – opuszczenie terenu parku </li>
-                <li>16:30 - powrót do hotelu </li>
+                <li>10:00 - safari do amboseli</li>
+                <li>13:30 - lunch w AA lodge i relax</li>
+                <li>15:30 - wyjazdie na wieczorem safari</li>
+                <li>18:30 - wracamy do hotel dla kolacja i relax</li>
+            </ul>
+            <b>3 dzień</b>
+            <ul>
+                <li>6:00 – śniadanie</li>
+                <li>6:30 - wyjazd na poranne safari</li>
+                <li>8:30 – opuszczenie terenu parku</li>
+                <li>17:30 - powrót do hotelu</li>
             </ul>
             <h3>W cenie</h3>
  <p>Transport,<b/>
@@ -184,17 +193,42 @@ Butelkowana woda w jeepie<br/>
                 <h2 class="price-text">3 dni</h2>
             </div>
             <div class="benefits">
-            <p>za 60 minut lekcji</p>
+            <p>wariant 2:</p>
+            <p>3-dniowe Tsavo East, Amboseli Park – obok Masai Mara, najpopularniejszego parku w Kenii.</p>
+            <p>To właśnie tutaj występują największe skupiska słoni, które można podziwiać z bliska. Miłośnicy przyrody znajdą tu suche dno jeziora Amboseli, tereny podmokłe, sawanny i lasy. Cena safari obejmuje wizytę w wiosce Masajów.
+            </p>
+            <b>1 dzień</b>
             <ul>
-                <li>Przygotowanie do bieżącego materiału, sprawdzianów i matury rozszerzonej</li>
-                <li>Kiedy chcesz i gdzie chcesz</li>
-                <li>Zdaj klasę ze świetnymi ocenami</li>
-                <li>Zdaj maturę podstawową
-                    z wysokim wynikiem</li>
-                <li>Zdaj maturę rozszerzoną
-                    z wysokim wynikiem</li>
-                <li><i class="fa-solid fa-graduation-cap"></i> Dostań się na wymarzone studia!</li>
+                <li>5:00 – Wyjazd z hotelu,</li>
+                <li>10:00 Przybycie do bram Tsavo East Park. Safari safari – odkrywaj i obserwuj dzikie zwierzęta (słonie, żyrafy, antylopy, zebry, hipopotamy, lwy, gepardy, małpy i wiele innych).</li>
+                <li>13:00 – Obiad w hotelu lub domku (wygodne, małe domki murowane).</li>
+                <li>Relaks po obiedzie do około 16:00. Wyjazd na wieczorne safari o godzinie 18:30.</li>
+                <li>19:00 – Powrót i kolacja w hotelu przy parku.</li>
             </ul>
+            <b>2 dzień - AMBOSELI</b>
+            <ul>
+                <li>6:00 – Śniadanie</li>
+                <li>6:30 – Wyjazd do parku Amboseli (przyjazd ok. 12:00).</li>
+                <li>13:00 Obiad</li>
+                <li>15:00-18:30 Wieczorne safari w parku Amboseli.</li>
+                <li>19:30 – Kolacja.</li>
+            </ul>
+            <b>2 dzień - AMBOSELI</b>
+            <ul>
+                <li>6:00 – Śniadanie</li>
+                <li>6:30 - poranne safari.</li>
+                <li>8:30 - Droga powrotna do hotelu </li>
+                <li>13:00 obiad w restauracji przy autostradzie.</li>
+                <li>18:00 Powrót do hotelu.</li>
+            </ul>
+            <h3>W cenie</h3>
+ <p>Pomoc przewodnika,<br/>
+ Transport,<br/>
+ Wstęp do parków,<br/>
+Wyżywienie,<br/>
+Noclegi,<br/>
+Butelkowana woda w jeepie<br/>
+*dodatkowo płatne: napiwek</p>
             <a href="/buttons/42" class="btn41-43 btn-42 btn-sand">
               dowiedz się więcej
             </a>
@@ -204,6 +238,13 @@ Butelkowana woda w jeepie<br/>
     
     </div>
     </div>
+    <div class="card">
+  <div class="card-body">
+    <b>Napoje do posiłków płatne dodatkowo (wodę butelkowaną można zabrać z samochodu).</b><br/>
+<b>* "o co chodzi z tymi napiwkami?" - często pada takie pytanie ze strony turystów. W kenijskiej turystyce ceny lubią się zmieniać z godziny na godzinę, dlatego często po opłaceniu wszystkich zobowiązań przewodnikom i kierowcom safari nie zostaje wiele i to właśnie napiwki często stanowią ich główną część wynagrodzenia. Pamiętajmy, że są one mile widziane jednak dobrowolne.</b> <br/>
+<b>** podane godziny mają charakter orientacyjny </b>
+  </div>
+</div>
     </div>
 </div>
 </div>

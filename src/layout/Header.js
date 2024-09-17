@@ -14,7 +14,7 @@ const Header = () => {
           <Link className="nav-link" to="/">O Safari</Link>
           </li>
           <li class="nav-item">
-          <Link className="nav-link" to="/">Oferta</Link>
+          <Link className="nav-link" to="/oferta">Oferta</Link>
           </li>
         </ul>
       </div>
@@ -27,8 +27,8 @@ const Header = () => {
     </button>
     <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
       <div class="offcanvas-header">
-      <a class="navbar-brand" href="#"> <img className="header-logo" src={require("../assets/darkLogo.png")}
-        /></a>
+      <Link className="nav-link active" to="/"> <img className="header-logo" src={require("../assets/darkLogo.png")}
+        /></Link>
         <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
       </div>
       <div class="offcanvas-body">
@@ -40,7 +40,7 @@ const Header = () => {
           <Link className="nav-link" to="/">O Safari</Link>
           </li>
           <li class="nav-item">
-          <Link className="nav-link" to="/">Oferta</Link>
+          <Link className="nav-link" to="/oferta">Oferta</Link>
           </li>
         </ul>
       </div>

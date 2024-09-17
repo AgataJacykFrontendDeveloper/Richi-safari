@@ -1,4 +1,5 @@
 import "./AboutMe.css";
+import { Link } from "react-router-dom";
 const AboutMe = () => {
   return (
     <div className="about-me"> 
@@ -11,9 +12,7 @@ const AboutMe = () => {
       <p>Urodziłem się i mieszkam w Kenii. Jestem licencjonowanym przewodnikiem safari. Uwielbiam pracę z ludźmi, dlatego chcę Wam pokazać mój świat i Was ugości. Mówię po polsku, angielsku, włosku oraz niemiecku.</p>
 <p>Zapraszam do wspólnej przygody. 
 </p>
-<a href="/buttons/42" class="btn41-43 btn-42 btn-sun">
-              zobacz ofertę
-            </a>
+<Link className="btn41-43 btn-42 btn-sun" to="/oferta">zobacz ofertę</Link>
     </div>
   </div>
     </div>

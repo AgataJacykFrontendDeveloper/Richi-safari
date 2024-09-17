@@ -15,9 +15,7 @@ const HomePage = () => {
             <a href="/buttons/42" class="btn41-43 btn-42">
               O safari
             </a>
-            <span id="aboutMe-btn">
-              <a>O mnie</a>
-            </span>
+              <a id="aboutMe-btn" href="https://richi-safari.vercel.app/oferta">Oferta</a>
           </div>
         </div>
       </section>

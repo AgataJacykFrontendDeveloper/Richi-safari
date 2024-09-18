@@ -37,8 +37,8 @@ const Offer = () => {
 Obiad,<br/>
 Butelkowana woda w jeepie<br/>
 *dodatkowo płatne: napiwek</p>
-            <a href="/buttons/42" class="btn41-43 btn-42 btn-sand">
-              dowiedz się więcej
+            <a href="https://richi-safari.vercel.app/kontakt" class="btn41-43 btn-42 btn-sand">
+              Skontaktuj się 
             </a>
         </div>
         </div>
@@ -81,8 +81,8 @@ Wyżywienie,<br/>
 Noclegi,<br/>
 Butelkowana woda w jeepie<br/>
 *dodatkowo płatne: napiwek</p>
-            <a href="/buttons/42" class="btn41-43 btn-42 btn-sand">
-              dowiedz się więcej
+<a href="https://richi-safari.vercel.app/kontakt" class="btn41-43 btn-42 btn-sand">
+              Skontaktuj się 
             </a>
         </div>
     </div>
@@ -124,8 +124,8 @@ Wyżywienie,<br/>
 Noclegi,<br/>
 Butelkowana woda w jeepie<br/>
 *dodatkowo płatne: napiwek</p>
-            <a href="/buttons/42" class="btn41-43 btn-42 btn-sand">
-              dowiedz się więcej
+<a href="https://richi-safari.vercel.app/kontakt" class="btn41-43 btn-42 btn-sand">
+              Skontaktuj się 
             </a>
         </div>
     </div>
@@ -178,8 +178,8 @@ Wyżywienie,<br/>
 Noclegi,<br/>
 Butelkowana woda w jeepie<br/>
 *dodatkowo płatne: napiwek</p>
-            <a href="/buttons/42" class="btn41-43 btn-42 btn-sand">
-              dowiedz się więcej
+<a href="https://richi-safari.vercel.app/kontakt" class="btn41-43 btn-42 btn-sand">
+              Skontaktuj się 
             </a>
         </div>
     </div>
@@ -230,8 +230,8 @@ Wyżywienie,<br/>
 Noclegi,<br/>
 Butelkowana woda w jeepie<br/>
 *dodatkowo płatne: napiwek</p>
-            <a href="/buttons/42" class="btn41-43 btn-42 btn-sand">
-              dowiedz się więcej
+<a href="https://richi-safari.vercel.app/kontakt" class="btn41-43 btn-42 btn-sand">
+              Skontaktuj się 
             </a>
         </div>
     </div>

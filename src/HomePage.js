@@ -12,10 +12,10 @@ const HomePage = () => {
           <img src={require("./assets/logo-hero.png")} />
           <h1>Richi Safari</h1>
           <div className="shorthand">
-            <a href="/buttons/42" class="btn41-43 btn-42">
-              O safari
+            <a href="https://richi-safari.vercel.app/oferta" class="btn41-43 btn-42">
+              Oferta
             </a>
-              <a id="aboutMe-btn" href="https://richi-safari.vercel.app/oferta">Oferta</a>
+              <a id="aboutMe-btn" href="https://richi-safari.vercel.app/kontakt">Kontakt</a>
           </div>
         </div>
       </section>

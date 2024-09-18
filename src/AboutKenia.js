@@ -10,8 +10,8 @@ const AboutKenia = () => {
 Oprócz dzikiej przyrody, Kenia oferuje też zapierające dech w piersiach plaże nad Oceanem Indyjskim, np. Diani Beach, idealne do nurkowania, surfingu i relaksu. Spotkasz tam również fascynujące kultury, takie jak plemię Masajów, które pokaże ci zupełnie inny sposób życia.
 
 Jeśli szukasz miejsca, które łączy przyrodę, przygodę i różnorodność kulturową, Kenia jest idealnym wyborem!</p>
-<a href="/buttons/42" class="btn41-43 btn-42 btn-sand">
-              dowiedz się więcej
+<a href="https://www.facebook.com/profile.php?id=61558391553348" class="btn41-43 btn-42 btn-sand">
+              Zobacz nasz profil <i class="bi bi-facebook"></i>
             </a>
 
     </div>

@@ -5,10 +5,11 @@ const AboutKenia = () => {
     <div className="about-kenia"> 
     <div className="row">
     <div class="col-5 "><h2>O Kenii</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-</p>
+      <p> Kenia to prawdziwa perła Afryki, która oferuje niezapomniane wrażenia na każdej płaszczyźnie. To raj dla miłośników przyrody i przygód. Safari w Kenii to szansa, by zobaczyć na własne oczy "Wielką Piątkę" – lwy, słonie, bawoły, lamparty i nosorożce – w ich naturalnym środowisku. Park Narodowy Masai Mara zachwyci cię malowniczymi widokami i spektakularnymi migracjami zwierząt.
+
+Oprócz dzikiej przyrody, Kenia oferuje też zapierające dech w piersiach plaże nad Oceanem Indyjskim, np. Diani Beach, idealne do nurkowania, surfingu i relaksu. Spotkasz tam również fascynujące kultury, takie jak plemię Masajów, które pokaże ci zupełnie inny sposób życia.
+
+Jeśli szukasz miejsca, które łączy przyrodę, przygodę i różnorodność kulturową, Kenia jest idealnym wyborem!</p>
 <a href="/buttons/42" class="btn41-43 btn-42 btn-sand">
               dowiedz się więcej
             </a>

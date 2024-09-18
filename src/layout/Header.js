@@ -13,11 +13,31 @@ const Header = () => {
 <Link className="nav-link active" to="/">Strona Główna</Link>
           </li>
           <li class="nav-item">
-          <Link className="nav-link" to="/">O Safari</Link>
-          </li>
-          <li class="nav-item">
           <Link className="nav-link" to="/oferta">Oferta</Link>
           </li>
+          <li class="nav-item">
+          <Link className="nav-link" to="/przed-wyjazdem">Przed wyjazdem</Link>
+          </li>
+          <li class="nav-item">
+                {" "}
+                <a
+                  className="nav-link"
+                  href="https://www.facebook.com/profile.php?id=61558391553348"
+                >
+                  {" "}
+                  <i class="bi bi-facebook"></i>
+                </a>
+              </li>
+              <li class="nav-item">
+                {" "}
+                <a
+                  className="nav-link"
+                  href="https://www.instagram.com/richi_safari_kenya/"
+                >
+                  {" "}
+                  <i class="bi bi-instagram"></i>
+                </a>
+              </li>
         </ul>
       </div>
   </div>
@@ -39,11 +59,31 @@ const Header = () => {
           <a href="https://richi-safari.vercel.app" className="nav-link active">Strona Główna</a>
           </li>
           <li class="nav-item">
+          <a href="https://richi-safari.vercel.app/oferta" className="nav-link">Oferta</a>
+          </li>
+          <li class="nav-item">
           <a href="https://richi-safari.vercel.app/przed-wyjazdem" className="nav-link" >Przed wyjazdem</a>
           </li>
           <li class="nav-item">
-          <a href="https://richi-safari.vercel.app/oferta" className="nav-link">Oferta</a>
-          </li>
+                {" "}
+                <a
+                  className="nav-link"
+                  href="https://www.facebook.com/profile.php?id=61558391553348"
+                >
+                  {" "}
+                  <i class="bi bi-facebook"></i> Facebook
+                </a>
+              </li>
+              <li class="nav-item">
+                {" "}
+                <a
+                  className="nav-link"
+                  href="https://www.instagram.com/richi_safari_kenya/"
+                >
+                  {" "}
+                  <i class="bi bi-instagram"></i> Instagram
+                </a>
+              </li>
         </ul>
       </div>
     </div>

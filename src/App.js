@@ -6,6 +6,8 @@ import Layout from "./layout/Layout";
 import HomePage from "./HomePage";
 import Info from "./Info";
 import Offer from "./Offer";
+import Regulations from "./Regulations";
+import Contact from "./Contact";
 function App() {
   return (
     <BrowserRouter>
@@ -14,6 +16,8 @@ function App() {
           <Route path="/" element={<HomePage />} />
           <Route path="/przed-wyjazdem" element={<Info />} />
           <Route path="/oferta" element={<Offer />} />
+          <Route path="/regulamin" element={<Regulations />} />
+          <Route path="/kontakt" element={<Contact />} />
           {/* Must be always last route */}
           <Route path="*" element={<>404 page not found</>} />
         </Route>

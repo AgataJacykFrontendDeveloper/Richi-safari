@@ -20,13 +20,8 @@ const Footer = () => {
 
               <div className="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
                  <p>
-                  <a href="#!" className="text-white">
-                  O mnie
-                  </a>
-                </p>
-                <p>
-                  <a href="#!" className="text-white">
-                  O Safari
+                  <a className="text-white" href="https://richi-safari.vercel.app/oferta">
+                  Oferta
                   </a>
                 </p>
                 <p>
@@ -39,31 +34,21 @@ const Footer = () => {
 
               <div className="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
               <p>
-                  <a href="#!" className="text-white">
+                  <a href="https://richi-safari.vercel.app/kontakt" className="text-white">
                   Kontakt
                   </a>
                 </p>
                 <p>
-                  <a href="#!" className="text-white">
+                  <a href="https://richi-safari.vercel.app/przed-wyjazdem" className="text-white">
                   Informacje przed wyjazdem
-                  </a>
-                </p>
-                <p>
-                  <a href="#!" className="text-white">
-                  Poradnik zdrowia
                   </a>
                 </p>
               </div>
 
               <div className="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
               <p>
-                  <a href="#!" className="text-white">
+                  <a href="https://richi-safari.vercel.app/regulamin" className="text-white">
                   Regulamin
-                  </a>
-                </p>
-                <p>
-                  <a href="#!" className="text-white">
-                   Polityka Prywatności
                   </a>
                 </p>
                 <p>

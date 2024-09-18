@@ -9,6 +9,7 @@ const Offer = () => {
     <img className="card-img-top"src={require("./assets/journey.png")}/>
   <div class="card-body">
     <h1 class="card-title">Oferta</h1>
+    <p>Jeśli marzysz o bliskim spotkaniu z dziką naturą, nasza oferta safari w Kenii to idealny wybór! Czeka na Ciebie niezapomniana przygoda w sercu afrykańskiej sawanny, gdzie będziesz miał okazję zobaczyć majestatyczne lwy, słonie, żyrafy i wiele innych zwierząt w ich naturalnym środowisku. Profesjonalny przewodnik zapewni nie tylko bezpieczeństwo, ale także niezwykłą dawkę wiedzy. Niezależnie od tego, czy to Twój pierwszy raz na safari, czy już miałeś okazję odkrywać Afrykę – każda wycieczka będzie pełna nowych emocji i widoków, które zostaną z Tobą na zawsze.</p>
     <div class="row pricing-row">
     <div class="pricing-column col-lg-4 col-md-6">  
     <div class="card education">

@@ -4,9 +4,8 @@ const Review = () => {
            <div className="review-box row">
        <div className="col-3 "><img className="giraffe" src={require("./assets/giraffe.png")}/></div> 
         <div className="col">
-        <h2>Opinie</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-</p>
+        <h2>Opinie naszych podrózników</h2>
+      <p>Poznaj wrażenia tych, którzy mieli już okazję odkryć magię Kenii. Poniżej znajdziesz autentyczne relacje, pełne inspiracji, wskazówek i niezapomnianych wspomnień z podróży. Sprawdź, co inni mówią o swoich przygodach i doświadczeniach!</p>
 <div id="carouselExampleDark" class="carousel carousel-dark slide">
   <div class="carousel-indicators">
     <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>

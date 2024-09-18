@@ -64,7 +64,7 @@ const MainHeader = () => {
             aria-label="Toggle navigation"
             data-bs-theme="dark"
           >
-            <span class="navbar-toggler-icon" data-bs-theme="dark"></span>
+            <span class="navbar-toggler-icon"></span>
           </button>
           <div
             class="offcanvas offcanvas-end"

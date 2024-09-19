@@ -18,6 +18,8 @@
 }
 .avatar {
   width:  calc(100px + (300 - 100) * ((100vw - 300px) / (1728 - 300)));
+  border-radius: 50%;
+
 }
 
 h2 {

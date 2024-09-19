@@ -5,7 +5,7 @@ const AboutMe = () => {
     <div className="about-me"> 
     <div className="row">
     <div class="col-3 ">
-<img className="avatar" src={require("./assets/eclipse.png")} />
+<img className="avatar" src={require("./assets/Richi.png")} />
     </div>
     <div class="col-5 ">
 <h2>Hej! Jestem Richi</h2>
